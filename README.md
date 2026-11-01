@@ -47,3 +47,12 @@ I am a first-year B.Sc. Computer Science student at Vivekanand Education Society
 2. Open `index.html` in any web browser.
 
 ## Project Structure
+
+├── index.html # Portfolio page
+├── style.css # Styling and responsive layout
+└── README.md
+
+
+## Contact
+
+GitHub: [Soumya140708](https://github.com/Soumya140708)
